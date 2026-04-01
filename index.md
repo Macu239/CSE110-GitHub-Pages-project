@@ -17,8 +17,7 @@ const res = await fetch(
       );
 ```
 
-And the following is my Github Profile:
-https://github.com/Macu239
+And the following is my Github Profile: (https://github.com/Macu239)
 
 And I do have a README.md in this repo:
 [Go to README](./README.md)
